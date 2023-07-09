@@ -1,3 +1,5 @@
+## Refer to activity 1 question
+
 ```python
 from PIL import Image #importing the Image function to read images
 import matplotlib.pyplot as plt #import matplotlib for plotting of images
