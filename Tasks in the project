@@ -1,0 +1,7 @@
+## Face Recognition in the Image Space
+
+First let us describe a simple (but slow) algorithm to recognize faces in the
+original image space.
+
+A face image of $ w x h$ pixels can be regarded simply as a vector of $m = w × h$ (real) grayscale values in the range $0: 255$. For simplicity, from
+now on a face image will be simply called a ‘face’ $f$. Then we have that $f \in \mathbb{R}^m$.
