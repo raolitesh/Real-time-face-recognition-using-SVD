@@ -1,0 +1,6 @@
+from PIL import Image #importing the Image function to read images
+import matplotlib.pyplot as plt #import matplotlib for plotting of images
+import os #import os to access images in the folder/file
+import numpy as np
+import pandas as pd
+from simple_colors import *
